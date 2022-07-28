@@ -1,0 +1,21 @@
+Outline
+
+Quiz topic: Aura quiz. Answer questions and we'll tell you the color of your aura.
+
+Possible options: Blue, Yellow, Red, White, Black
+
+Options per question: 5
+
+White: 1-5; peaceful, calm, kind
+Yellow: 6-10; happy, energetic, optimist
+Red: 11-15; passionate, confident, ambitious 
+Blue: 16-20; compassionate, imaginative, reliable
+Black: 21-25; serious, determined, mysterious
+
+Questions: 
+Favorite weather: Sunny (yellow), cloudy (white), rainy (blue), foggy (black), windy (red)
+Where you want to travel to: Paris (blue), Milan (white), Tokyo (red), Malibu (yellow), London (black)
+Favorite color: Purple (blue), Green (white), Pink (red), Orange (yellow), Other (black)
+Favorite book genre: Fantasy (yellow), Romance (white), Thriller (red), Non-fiction (black), YA (blue)
+Favorite subject: STEM, Art & Music (red), English & Literature (white), Gym (blue), Business and Finance (black)
+
